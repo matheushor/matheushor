@@ -37,11 +37,14 @@ src="https://gist.githubusercontent.com/matheushor/0679dc5a0447591c4085228361219
   <img align="center" src="https://img.shields.io/badge/-matheushor-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://codepen.io/matheushor/pens/public" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-matheushor-05122A?style=flat&logo=codepen" alt="codepen"/>
+ <img align="center" src="https://img.shields.io/badge/-matheushor-05122A?style=flat&logo=codepen" alt="CodePen"/>
  </a>
   <a href="https://instagram.com/mhenriqueor" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-matheushor-05122A?style=flat&logo=instagram" alt="instagram"/>
-  
+  </a>
+  <a href="https://contate.me/matheus-oliveira" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-matheushor-05122A?style=flat&logo=WhatsApp" alt="WhatsApp"/>
+  </a>
 </p>
 
 <br><br>
