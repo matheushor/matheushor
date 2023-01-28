@@ -25,8 +25,8 @@ src="https://gist.githubusercontent.com/matheushor/0679dc5a0447591c4085228361219
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=highcontrast" alt="matheushor's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=highcontrast" alt="matheushor's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=matheushor&show_icons=true&theme=highcontrast" alt="matheushor's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?usernamematheushor=&layout=compact&theme=highcontrast" alt="matheushor's most languages"/>
 </p>
 
 
