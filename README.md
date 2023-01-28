@@ -36,9 +36,12 @@ src="https://gist.githubusercontent.com/matheushor/0679dc5a0447591c4085228361219
 <a href="https://linkedin.com/in/matheushor" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-matheushor-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/mhenriqueor" target="_blank">
+<a href="https://codepen.io/matheushor/pens/public" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-matheushor-05122A?style=flat&logo=codepen" alt="codepen"/>
+ </a>
+  <a href="https://instagram.com/mhenriqueor" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-matheushor-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+  
 </p>
 
 <br><br>
