@@ -30,4 +30,16 @@ src="https://gist.githubusercontent.com/matheushor/6e981bcd7b9aa0711567868a42838
 </p>
 -->
 
+
+## Contact
+
+<p align="left" style="background:yellow">
+<a href="https://linkedin.com/in/matheushor" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-matheushor-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/mhenriqueor" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-matheushor-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
+
 <br><br>
