@@ -24,10 +24,6 @@ src="https://gist.githubusercontent.com/matheushor/e07c6fad48b91956e6287a716bd63
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=matheushor&show_icons=true&theme=highcontrast" alt="matheushor's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushor&layout=compact&theme=highcontrast" alt="matheushor's most languages"/>
-</p>
 
 
 ## Contact
