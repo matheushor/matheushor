@@ -5,9 +5,9 @@ src="https://gist.githubusercontent.com/matheushor/0679dc5a0447591c4085228361219
 
 - 🔥 Junior FrontEnd developer from Brazil
 
-- 🔭 I’m currently working at SmartEnvios 
+- 🔭 I’m currently working at
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Node.JS**
+- 💬 Ask me about **JavaScript, HTML, CSS, Python, C#, SQL**
 
 - ⚡ Fun fact **Oneye 😜**
 
