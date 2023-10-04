@@ -43,9 +43,6 @@ src="https://gist.githubusercontent.com/matheushor/0679dc5a0447591c4085228361219
   <a href="https://instagram.com/mhenriqueor" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-matheushor-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
-  <a href="https://contate.me/matheus-oliveira" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-matheushor-05122A?style=flat&logo=WhatsApp" alt="WhatsApp"/>
-  </a>
 </p>
 
 <br><br>
