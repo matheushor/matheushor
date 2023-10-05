@@ -3,7 +3,7 @@ src="https://gist.githubusercontent.com/matheushor/0679dc5a0447591c4085228361219
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Oliveira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheushor&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior FrontEnd developer from Brazil
+- 🔥 FrontEnd developer from Brazil
 
 - 🔭 I’m currently working at
 
@@ -36,19 +36,5 @@ src="https://gist.githubusercontent.com/matheushor/0679dc5a0447591c4085228361219
 <a href="https://codepen.io/matheushor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matheushor" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/matheushor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheushor" height="30" width="40" /></a>
 <a href="https://instagram.com/mhenriqueor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhenriqueor" height="30" width="40" /></a>
-</p>
-
-## Contact
-
-<p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/matheushor" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-matheushor-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://codepen.io/matheushor/pens/public" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-matheushor-05122A?style=flat&logo=codepen" alt="CodePen"/>
- </a>
-  <a href="https://instagram.com/mhenriqueor" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-matheushor-05122A?style=flat&logo=instagram" alt="instagram"/>
-  </a>
 </p>
 <br><br>
