@@ -31,6 +31,11 @@ src="https://gist.githubusercontent.com/matheushor/0679dc5a0447591c4085228361219
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushor&layout=compact&theme=chartreuse-dark" alt="matheushor's most languages"/>
 </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/matheushor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheushor/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/mhenriqueor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mhenriqueor/" height="30" width="40" /></a>
+</p>
 
 ## Contact
 
@@ -44,10 +49,5 @@ src="https://gist.githubusercontent.com/matheushor/0679dc5a0447591c4085228361219
   <a href="https://instagram.com/mhenriqueor" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-matheushor-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
-</p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/matheushor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheushor/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/mhenriqueor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mhenriqueor/" height="30" width="40" /></a>
 </p>
 <br><br>
