@@ -7,11 +7,13 @@ src="https://gist.githubusercontent.com/matheushor/0679dc5a0447591c4085228361219
 
 - 🔭 I’m currently working at
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Python, C#, SQL**
+- 💬 Ask me about **HTML, CSS, JavaScript, , Python, C#, SQL**
 
 - ⚡ Fun fact **Oneye 😜**
 
-- https://matheushenriqueorportifolio.netlify.app
+- 👨‍💻 All of my projects are available at [https://matheushenriqueorportifolio.netlify.app](https://matheushenriqueorportifolio.netlify.app)
+
+- 📫 How to reach me **matheushenriqueor@hotmail.com**
 
 <br>
 
