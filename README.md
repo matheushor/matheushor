@@ -11,7 +11,7 @@ src="https://gist.githubusercontent.com/matheushor/0679dc5a0447591c4085228361219
 
 - ⚡ Fun fact **Oneye 😜**
 
-- 👨‍💻 All of my projects are available at [https://matheushenriqueorportifolio.netlify.app](https://matheushenriqueorportifolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://matheushenriqueorportifolio.netlify.app](https://matheushenriqueor.netlify.app)
 
 - 📫 How to reach me **matheushenriqueor@hotmail.com**
 
